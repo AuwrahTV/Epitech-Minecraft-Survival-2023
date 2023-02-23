@@ -14,9 +14,7 @@
 <h3 align="left">- Le dossier emote sera utilisé pour un mod, rangez bien ce dossier dans ./minecraft.</h3>
 
 <h2 align="center">Informations complémentaires :</h2>
-<h3 align="left">
-Version du jeu : 1.19.3
-Version de Forge : 44.1.0
-Lien vers l'installation de forge : https://files.minecraftforge.net/net/minecraftforge/forge/?forums
-Pour plus d'informations -> Discord : AuwrahTV#4555
-</h3>
+<h3 align="left"> Version du jeu : 1.19.3 </h3>
+<h3 align="left"> Version de Forge : 44.1.0 </h3>
+<h3 align="left"> Lien vers l'installation de forge : https://files.minecraftforge.net/net/minecraftforge/forge/?forums </h3>
+<h3 align="left"> Pour plus d'informations -> Discord : AuwrahTV#4555 </h3>
