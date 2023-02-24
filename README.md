@@ -1,3 +1,6 @@
+<h2 align="center">Tuto : Forge</h2>
+<h3 align="left">- Double Click sur le fichier forge pour l'installer.</h3>
+
 <h2 align="center">Tuto : Datapacks</h2>
 <h3 align="left">- Les datapacks ne sont pas à implémenter dans le jeu, mon but ici est de les stocker.</h3>
 
