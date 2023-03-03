@@ -22,14 +22,6 @@
 ![image](https://user-images.githubusercontent.com/114651499/221049792-b1cb12bd-6515-4bd4-b8d3-46fb7d7f162b.png)
 ![image](https://user-images.githubusercontent.com/114651499/221049836-05bc2e49-5914-4939-b516-8adb17bef753.png)
 
-
-<h2 align="center">Tuto : Emotes</h2>
-<h3 align="left">- Le dossier emote sera utilisé pour un mod, rangez bien ce dossier dans ./minecraft.</h3>
-
-![image](https://user-images.githubusercontent.com/114651499/221049871-f81d8a26-492c-4a4b-ae15-b9bcf4dd0a49.png)
-![image](https://user-images.githubusercontent.com/114651499/221049900-85666763-8937-43aa-a5ec-c7431eb8fed6.png)
-
-
 <h2 align="center">Informations complémentaires :</h2>
 <h3 align="left"> Il est possibles que les touches entre en confusion, configurez bien tout avant de commencer à jouer ! </h3>
 <h3 align="left"> Version du jeu : 1.19.3 </h3>
